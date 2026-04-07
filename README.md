@@ -14,7 +14,8 @@ O sistema permite gerenciar atividades diárias através das seguintes funções
 
 Este projeto foi construído utilizando as seguintes tecnologias/ferramentas:
 
-* **Linguagem:** React Native
+* **Linguagem:** Typescript, Javascript
+* **Framework:** React Native
 * **Banco:** MongoDB + Express
 * **Ambiente:**  VS Code
 * **Versionamento:** Git & GitHub
